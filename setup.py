@@ -22,7 +22,7 @@ setuptools.setup(
     keywords=['tello', 'dji', 'drone', 'sdk', 'official sdk'],
     install_requires=[
         'numpy',
-        'opencv4',
+        'opencv',
         'av',
         'pillow'
     ],
